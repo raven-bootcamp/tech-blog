@@ -1,7 +1,7 @@
 # Tech Blog
 A tech blog site built using MVC structure and principles
 
-Deployed app:
+Deployed app: https://blooming-tundra-63075.herokuapp.com/
 
 Code repository: https://github.com/raven-bootcamp/tech-blog
 
